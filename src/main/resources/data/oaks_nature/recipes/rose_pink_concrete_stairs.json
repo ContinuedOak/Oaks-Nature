@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rosepinkconcretestairs",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:rose_pink_concrete"
+    },
+    "3": {
+      "item": "oaks_nature:rose_pink_concrete"
+    },
+    "4": {
+      "item": "oaks_nature:rose_pink_concrete"
+    },
+    "6": {
+      "item": "oaks_nature:rose_pink_concrete"
+    },
+    "7": {
+      "item": "oaks_nature:rose_pink_concrete"
+    },
+    "8": {
+      "item": "oaks_nature:rose_pink_concrete"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:rose_pink_concrete_stairs",
+    "count": 4
+  }
+}

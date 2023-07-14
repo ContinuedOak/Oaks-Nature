@@ -1,0 +1,27 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:WhiteDandelion"
+      },
+      {
+        "value": "CUSTOM:RosePinkTulip"
+      },
+      {
+        "value": "CUSTOM:BundleOfPoppy"
+      },
+      {
+        "value": "CUSTOM:BundleOfOxeyeDaisy"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "flowers",
+    "namespace": "forge"
+  }
+}

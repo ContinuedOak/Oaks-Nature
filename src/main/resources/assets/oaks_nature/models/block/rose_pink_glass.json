@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/rose_pink_stained_glass",
+    "up": "oaks_nature:block/rose_pink_stained_glass",
+    "north": "oaks_nature:block/rose_pink_stained_glass",
+    "east": "oaks_nature:block/rose_pink_stained_glass",
+    "south": "oaks_nature:block/rose_pink_stained_glass",
+    "west": "oaks_nature:block/rose_pink_stained_glass",
+    "particle": "oaks_nature:block/rose_pink_stained_glass"
+  },
+  "render_type": "translucent"
+}

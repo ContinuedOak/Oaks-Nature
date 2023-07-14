@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "painting",
+  "definition": {
+    "texture": "painting.png",
+    "width": 48,
+    "height": 64,
+    "title": "Site Seeing",
+    "author": "ContinuedOak"
+  }
+}

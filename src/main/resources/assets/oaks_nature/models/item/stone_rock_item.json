@@ -1,0 +1,7 @@
+{
+  "parent": "oaks_nature:custom/stone_rocks",
+  "textures": {
+    "StoneTexture": "oaks_nature:block/stone",
+    "particle": "oaks_nature:item/oaks_nature_guide"
+  }
+}

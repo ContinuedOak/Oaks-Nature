@@ -1,0 +1,19 @@
+{
+  "_fv": 43,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "disc_15",
+    "description": "ContinuedOak - Disc 15",
+    "creativeTab": {
+      "value": "CUSTOM:CreateGoldRush"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:disc_15"
+    },
+    "lengthInTicks": 5800,
+    "analogOutput": 2
+  }
+}

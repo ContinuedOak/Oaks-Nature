@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RosePinkConcrete"
+      },
+      {
+        "value": "CUSTOM:RosePinkConcrete"
+      },
+      {
+        "value": "CUSTOM:RosePinkConcrete"
+      },
+      {
+        "value": "CUSTOM:RosePinkConcrete"
+      },
+      {
+        "value": "CUSTOM:RosePinkConcrete"
+      },
+      {
+        "value": "CUSTOM:RosePinkConcrete"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RosePinkConcreteWall"
+    },
+    "name": "rose_pink_concrete_wall",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mangrove_log"
+    },
+    "3": {
+      "item": "minecraft:mangrove_log"
+    },
+    "4": {
+      "item": "minecraft:mangrove_log"
+    },
+    "6": {
+      "item": "minecraft:mangrove_log"
+    },
+    "7": {
+      "item": "minecraft:mangrove_log"
+    },
+    "8": {
+      "item": "minecraft:mangrove_log"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:mangrove_log_stairs",
+    "count": 4
+  }
+}

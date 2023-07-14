@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "oaks_nature:diamond_shears_parts"
+    },
+    {
+      "item": "oaks_nature:diamond_shears_parts"
+    }
+  ],
+  "result": {
+    "item": "oaks_nature:diamond_shears",
+    "count": 1
+  }
+}

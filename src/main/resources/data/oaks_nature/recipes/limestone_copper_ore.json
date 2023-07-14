@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "copper_ore",
+  "category": "misc",
+  "experience": 2,
+  "cookingtime": 85,
+  "ingredient": {
+    "item": "oaks_nature:limestone_copper_ore"
+  },
+  "result": "minecraft:copper_ingot"
+}

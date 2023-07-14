@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/coal_limestone_ore",
+    "up": "oaks_nature:block/coal_limestone_ore",
+    "north": "oaks_nature:block/coal_limestone_ore",
+    "east": "oaks_nature:block/coal_limestone_ore",
+    "south": "oaks_nature:block/coal_limestone_ore",
+    "west": "oaks_nature:block/coal_limestone_ore",
+    "particle": "oaks_nature:block/coal_limestone_ore"
+  },
+  "render_type": "solid"
+}

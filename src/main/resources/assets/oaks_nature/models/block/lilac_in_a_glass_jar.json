@@ -1,0 +1,13 @@
+{
+  "parent": "oaks_nature:custom/plant_jar",
+  "textures": {
+    "all": "oaks_nature:block/lilac_top",
+    "particle": "oaks_nature:block/lilac_top",
+    "glass": "oaks_nature:block/glass_top",
+    "cork": "oaks_nature:block/stripped_oak_log",
+    "glass_top": "oaks_nature:block/glass",
+    "dirt": "oaks_nature:block/podzol_top",
+    "flower": "oaks_nature:block/lilac_top"
+  },
+  "render_type": "cutout"
+}

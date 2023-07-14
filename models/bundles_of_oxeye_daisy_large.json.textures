@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "oxeye_daisy"
+      },
+      "name": "default"
+    }
+  }
+}

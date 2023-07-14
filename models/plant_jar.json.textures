@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "glass_top": "glass_top",
+        "glass": "glass",
+        "dirt": "podzol_top",
+        "cork": "stripped_oak_log",
+        "flower": "white_tulip"
+      },
+      "name": "default"
+    }
+  }
+}

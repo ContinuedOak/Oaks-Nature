@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/sand_8",
+  "textures": {
+    "all": "oaks_nature:block/sand",
+    "particle": "oaks_nature:block/sand",
+    "missing": "oaks_nature:block/sand"
+  },
+  "render_type": "solid"
+}

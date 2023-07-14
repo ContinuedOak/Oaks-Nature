@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "teal_concrete_slab",
+  "count": 2,
+  "ingredient": {
+    "item": "oaks_nature:teal_concrete"
+  },
+  "result": "oaks_nature:teal_concrete_slab"
+}

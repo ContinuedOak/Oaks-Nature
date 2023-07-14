@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "oaks_nature:pumpkin_forest",
+  "features": "oaks_nature:giant_pumpkin",
+  "step": "surface_structures"
+}

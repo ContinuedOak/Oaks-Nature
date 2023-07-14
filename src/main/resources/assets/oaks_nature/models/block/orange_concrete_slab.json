@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "oaks_nature:block/orange_concrete",
+    "top": "oaks_nature:block/orange_concrete",
+    "side": "oaks_nature:block/orange_concrete"
+  },
+  "render_type": "solid"
+}

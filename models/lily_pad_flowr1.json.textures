@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "big_dripleaf_stem",
+        "2": "oxeye_daisy",
+        "texture": "lily_pad"
+      },
+      "name": "default"
+    }
+  }
+}

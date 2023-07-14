@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "teal_terracotta",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:terracotta"
+    },
+    "1": {
+      "item": "minecraft:terracotta"
+    },
+    "2": {
+      "item": "minecraft:terracotta"
+    },
+    "3": {
+      "item": "minecraft:terracotta"
+    },
+    "4": {
+      "item": "oaks_nature:teal_dye"
+    },
+    "5": {
+      "item": "minecraft:terracotta"
+    },
+    "6": {
+      "item": "minecraft:terracotta"
+    },
+    "7": {
+      "item": "minecraft:terracotta"
+    },
+    "8": {
+      "item": "minecraft:terracotta"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:teal_terracotta",
+    "count": 8
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "oaks_nature:tipped_spike_trap_active"
+    },
+    "title": {
+      "translate": "advancements.posioniness_floor.title"
+    },
+    "description": {
+      "translate": "advancements.posioniness_floor.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "posioniness_floor": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "oaks_nature:pointy_floor"
+}

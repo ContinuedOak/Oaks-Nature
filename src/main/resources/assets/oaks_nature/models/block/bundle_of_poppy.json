@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/bundles_of_templete_large",
+  "textures": {
+    "all": "oaks_nature:block/poppy",
+    "particle": "oaks_nature:block/poppy",
+    "0": "oaks_nature:block/poppy"
+  },
+  "render_type": "cutout"
+}

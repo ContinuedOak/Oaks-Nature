@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="oaks_nature"
+version="0.4.2"
+displayName="Oak's Nature"
+credits="You!"
+displayURL="https://www.youtube.com/c/ContinuedOak"
+logoFile="logo.png"
+authors="Continued Oak"
+description="Oaks Nature aims to expand on the Nature side of Minecraft, adding new Blocks and Items, and bringing your world to life with the slightest of detail. Currently Adding loads of unique blocks and plants with an everlasting development cycle. With the support of the community, this mod could forever expand."
+
+[[dependencies.oaks_nature]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

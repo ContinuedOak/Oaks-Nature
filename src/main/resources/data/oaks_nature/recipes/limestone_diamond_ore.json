@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "group": "diamond_ore",
+  "category": "misc",
+  "experience": 2,
+  "cookingtime": 85,
+  "ingredient": {
+    "item": "oaks_nature:limestone_diamond_ore"
+  },
+  "result": "minecraft:diamond"
+}

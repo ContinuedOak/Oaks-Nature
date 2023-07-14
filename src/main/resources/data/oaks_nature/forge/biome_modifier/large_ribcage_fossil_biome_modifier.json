@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "oaks_nature:large_ribcage_fossil",
+  "step": "underground_structures"
+}

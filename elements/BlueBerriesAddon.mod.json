@@ -1,0 +1,15 @@
+{
+  "_fv": 43,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:BlueBerry"
+    },
+    "enableFuel": false,
+    "fuelPower": {
+      "fixedValue": 204.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.45
+  }
+}

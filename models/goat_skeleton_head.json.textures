@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "goat_skeleton_head"
+      },
+      "name": "default"
+    }
+  }
+}

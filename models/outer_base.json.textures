@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "weak_oak_planks_stage2",
+        "top": "weak_oak_planks_stage2"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.MOSS_CARPET"
+      },
+      {
+        "value": "Blocks.CARPET#0"
+      },
+      {
+        "value": "Blocks.CARPET#1"
+      },
+      {
+        "value": "Blocks.CARPET#2"
+      },
+      {
+        "value": "Blocks.CARPET#3"
+      },
+      {
+        "value": "Blocks.CARPET#4"
+      },
+      {
+        "value": "Blocks.CARPET#5"
+      },
+      {
+        "value": "Blocks.CARPET#6"
+      },
+      {
+        "value": "Blocks.CARPET#7"
+      },
+      {
+        "value": "Blocks.CARPET#8"
+      },
+      {
+        "value": "Blocks.CARPET#9"
+      },
+      {
+        "value": "Blocks.CARPET#10"
+      },
+      {
+        "value": "Blocks.CARPET#11"
+      },
+      {
+        "value": "Blocks.CARPET#12"
+      },
+      {
+        "value": "Blocks.CARPET#13"
+      },
+      {
+        "value": "Blocks.CARPET#14"
+      },
+      {
+        "value": "Blocks.CARPET#15"
+      },
+      {
+        "value": "CUSTOM:TealCarpet"
+      },
+      {
+        "value": "CUSTOM:RosePinkCarpet"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wool_carpets",
+    "namespace": "minecraft"
+  }
+}

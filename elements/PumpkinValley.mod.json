@@ -1,0 +1,201 @@
+{
+  "_fv": 43,
+  "_type": "biome",
+  "definition": {
+    "name": "Pumpkin Forest",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "grassColor": {
+      "value": -4212907,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -5331926,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -13857892,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -13857892,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.0,
+    "temperature": 1.5,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": 0.006,
+      "max": 1.087
+    },
+    "genHumidity": {
+      "min": -1.9211,
+      "max": -0.5800000000000001
+    },
+    "genContinentalness": {
+      "min": -1.0E-4,
+      "max": 0.9993
+    },
+    "genErosion": {
+      "min": 0.0495,
+      "max": 1.0
+    },
+    "genWeirdness": {
+      "min": -1.0,
+      "max": 0.9648
+    },
+    "treesPerChunk": 13,
+    "vanillaTreeType": "Savanna trees",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "Blocks.ACACIA_WOOD"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES2#0"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.COCOA"
+    },
+    "defaultFeatures": [
+      "AmethystGeodes",
+      "Caves",
+      "Dripstone",
+      "ExtraEmeraldOre",
+      "Fossils",
+      "Lakes",
+      "MonsterRooms",
+      "Ores",
+      "ReedsAndPumpkins",
+      "SavannaTrees",
+      "TaigaRocks",
+      "ForestGrass",
+      "DefaultFlowers",
+      "InfestedStone"
+    ],
+    "spawnStronghold": true,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": true,
+    "villageType": "savanna",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "JUNGLE",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntitySheep"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 6,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityPig"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 4,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityCow"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 8,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityChicken"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 8,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityZombie"
+        },
+        "minGroup": 1,
+        "maxGroup": 3,
+        "weight": 3,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityCreeper"
+        },
+        "minGroup": 1,
+        "maxGroup": 3,
+        "weight": 3,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntitySkeleton"
+        },
+        "minGroup": 1,
+        "maxGroup": 3,
+        "weight": 3,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntitySpider"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 3,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

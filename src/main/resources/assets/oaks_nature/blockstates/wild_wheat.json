@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "oaks_nature:block/wild_wheat"
+    },
+    "half=lower": {
+      "model": "oaks_nature:block/wild_wheat_bottom"
+    }
+  }
+}

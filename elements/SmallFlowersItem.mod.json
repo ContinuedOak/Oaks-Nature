@@ -1,0 +1,27 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WhiteDandelion"
+      },
+      {
+        "value": "CUSTOM:BundleOfPoppy"
+      },
+      {
+        "value": "CUSTOM:BundleOfOxeyeDaisy"
+      },
+      {
+        "value": "CUSTOM:RosePinkTulip"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "small_flowers_item",
+    "namespace": "forge"
+  }
+}

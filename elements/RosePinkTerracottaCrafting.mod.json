@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "rosepinkterracotta",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.HARDENED_CLAY"
+      },
+      {
+        "value": "Blocks.HARDENED_CLAY"
+      },
+      {
+        "value": "Blocks.HARDENED_CLAY"
+      },
+      {
+        "value": "Blocks.HARDENED_CLAY"
+      },
+      {
+        "value": "CUSTOM:RosePinkDye"
+      },
+      {
+        "value": "Blocks.HARDENED_CLAY"
+      },
+      {
+        "value": "Blocks.HARDENED_CLAY"
+      },
+      {
+        "value": "Blocks.HARDENED_CLAY"
+      },
+      {
+        "value": "Blocks.HARDENED_CLAY"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RosePinkTerracotta"
+    },
+    "name": "rose_pink_terracotta",
+    "namespace": "mod"
+  }
+}

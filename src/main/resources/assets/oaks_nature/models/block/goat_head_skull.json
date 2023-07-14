@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/goat_skeleton_head",
+  "textures": {
+    "all": "oaks_nature:block/goat_skeleton_head",
+    "particle": "oaks_nature:block/goat_skeleton_head",
+    "1": "oaks_nature:block/goat_skeleton_head"
+  },
+  "render_type": "cutout"
+}

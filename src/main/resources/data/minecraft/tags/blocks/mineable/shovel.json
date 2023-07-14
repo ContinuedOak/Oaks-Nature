@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "oaks_nature:lush_grass",
+    "oaks_nature:rose_pink_concrete_powder",
+    "oaks_nature:teal_concrete_powder",
+    "oaks_nature:sand_14",
+    "oaks_nature:sand_12",
+    "oaks_nature:sand_10",
+    "oaks_nature:sand_8",
+    "oaks_nature:sand_6",
+    "oaks_nature:sand_4",
+    "oaks_nature:sand_2",
+    "oaks_nature:dirt_14",
+    "oaks_nature:dirt_12",
+    "oaks_nature:dirt_10",
+    "oaks_nature:dirt_8",
+    "oaks_nature:dirt_6",
+    "oaks_nature:dirt_4",
+    "oaks_nature:dirt_2",
+    "oaks_nature:gravel_14",
+    "oaks_nature:gravel_12",
+    "oaks_nature:gravel_10",
+    "oaks_nature:gravel_8",
+    "oaks_nature:gravel_6",
+    "oaks_nature:gravel_4",
+    "oaks_nature:gravel_2"
+  ]
+}

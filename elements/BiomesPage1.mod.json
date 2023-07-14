@@ -1,0 +1,189 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "page.png",
+          "use1Xscale": false,
+          "x": 67,
+          "y": 38
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "page.png",
+          "use1Xscale": false,
+          "x": 204,
+          "y": 37
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "biome_pumpforest.png",
+          "use1Xscale": true,
+          "x": 81,
+          "y": 52
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pumpkin_valley",
+          "text": {
+            "fixedValue": "Pumpkin Valley"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 106,
+          "y": 120
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_gaint_pumpkins",
+          "text": {
+            "fixedValue": "A uncommon biome found"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 79,
+          "y": 136
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "biome_limestonecaves.png",
+          "use1Xscale": true,
+          "x": 218,
+          "y": 52
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_limestone_caves",
+          "text": {
+            "fixedValue": "Limestone Caves"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 239,
+          "y": 119
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_added_in_v021",
+          "text": {
+            "fixedValue": "Limestone caves can be "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 218,
+          "y": 135
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_located_deep_undergound",
+          "text": {
+            "fixedValue": "located deep undergound."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 218,
+          "y": 149
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_in_similar_places_as",
+          "text": {
+            "fixedValue": "in similar places as "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 79,
+          "y": 149
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_an_acacia_biome",
+          "text": {
+            "fixedValue": "an acacia biome."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 79,
+          "y": 162
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_arrorw_left",
+          "image": "arrorw_left.png",
+          "hoveredImage": "arrorw_left_hover.png",
+          "onClick": {
+            "name": "OpenNaturalGuideHomepage"
+          },
+          "x": 81,
+          "y": 193
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_arrorw_right",
+          "image": "arrorw_right.png",
+          "hoveredImage": "arrorw_right_hover.png",
+          "onClick": {
+            "name": "WoodGrindingBowlCrafting12"
+          },
+          "x": 318,
+          "y": 193
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

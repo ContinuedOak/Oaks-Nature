@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "snowy_plains",
+    "plains",
+    "flower_forest"
+  ],
+  "features": "oaks_nature:oak_leaf_pile",
+  "step": "vegetal_decoration"
+}

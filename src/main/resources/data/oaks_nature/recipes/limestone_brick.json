@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "oaks_nature:polished_limestone"
+  },
+  "result": "oaks_nature:limestone_brick"
+}

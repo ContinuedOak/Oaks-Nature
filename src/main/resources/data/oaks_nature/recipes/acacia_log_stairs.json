@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_log"
+    },
+    "3": {
+      "item": "minecraft:acacia_log"
+    },
+    "4": {
+      "item": "minecraft:acacia_log"
+    },
+    "6": {
+      "item": "minecraft:acacia_log"
+    },
+    "7": {
+      "item": "minecraft:acacia_log"
+    },
+    "8": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:acacia_log_stairs",
+    "count": 4
+  }
+}

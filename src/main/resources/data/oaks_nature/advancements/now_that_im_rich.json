@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "oaks_nature:netherrite_shears"
+    },
+    "title": {
+      "translate": "advancements.now_that_im_rich.title"
+    },
+    "description": {
+      "translate": "advancements.now_that_im_rich.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "now_that_im_rich": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "oaks_nature:now_that_im_rich"
+}

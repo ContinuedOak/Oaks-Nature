@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/vase",
+  "textures": {
+    "all": "oaks_nature:block/vaseorange",
+    "particle": "oaks_nature:block/vase_break",
+    "0": "oaks_nature:block/vaseorange"
+  },
+  "render_type": "solid"
+}

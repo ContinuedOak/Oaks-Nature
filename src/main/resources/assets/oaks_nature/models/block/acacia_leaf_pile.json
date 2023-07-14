@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/acacia_leaves_pile",
+  "textures": {
+    "all": "oaks_nature:block/acacia_leaves",
+    "particle": "oaks_nature:block/acacia_leaves",
+    "6": "oaks_nature:block/acacia_leaves"
+  },
+  "render_type": "cutout"
+}

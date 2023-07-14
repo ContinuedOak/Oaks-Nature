@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "oaks_nature:woodcutter"
+    },
+    "title": {
+      "translate": "advancements.wood_saw.title"
+    },
+    "description": {
+      "translate": "advancements.wood_saw.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wood_saw": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "oaks_nature:getting_wood"
+}

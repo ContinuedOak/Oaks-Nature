@@ -1,0 +1,42 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:LimestoneCoalOre"
+      },
+      {
+        "value": "CUSTOM:LimestoneCopperOre"
+      },
+      {
+        "value": "CUSTOM:LimestoneDiamondOre"
+      },
+      {
+        "value": "CUSTOM:LimestoneEmeraldOre"
+      },
+      {
+        "value": "CUSTOM:LimestoneGoldOre"
+      },
+      {
+        "value": "CUSTOM:LimestoneIronOre"
+      },
+      {
+        "value": "CUSTOM:LimestoneLapisOre"
+      },
+      {
+        "value": "CUSTOM:LimestoneRedstoneOre"
+      },
+      {
+        "value": "CUSTOM:LimestoneRedstoneOreLit"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "ores",
+    "namespace": "forge"
+  }
+}

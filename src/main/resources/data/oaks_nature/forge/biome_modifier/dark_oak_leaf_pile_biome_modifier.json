@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "dark_forest",
+  "features": "oaks_nature:dark_oak_leaf_pile",
+  "step": "vegetal_decoration"
+}

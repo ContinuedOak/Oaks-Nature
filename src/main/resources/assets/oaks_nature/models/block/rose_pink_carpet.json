@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/carpet",
+  "textures": { 
+    "all": "oaks_nature:block/rose_pink_wool",
+    "particle": "oaks_nature:block/rose_pink_wool",
+    "texture": "oaks_nature:block/rose_pink_wool"
+  },
+  "render_type": "solid"
+}

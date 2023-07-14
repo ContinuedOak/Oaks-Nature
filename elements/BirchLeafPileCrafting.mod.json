@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "birch_leaf_pile",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BirchLeafPile"
+      },
+      {
+        "value": "CUSTOM:BirchLeafPile"
+      },
+      {
+        "value": "CUSTOM:BirchLeafPile"
+      },
+      {
+        "value": "CUSTOM:BirchLeafPile"
+      },
+      {
+        "value": "CUSTOM:BirchLeafPile"
+      },
+      {
+        "value": "CUSTOM:BirchLeafPile"
+      },
+      {
+        "value": "CUSTOM:BirchLeafPile"
+      },
+      {
+        "value": "CUSTOM:BirchLeafPile"
+      },
+      {
+        "value": "CUSTOM:BirchLeafPile"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.LEAVES#2"
+    },
+    "name": "birch_leaf_pile",
+    "namespace": "mod"
+  }
+}

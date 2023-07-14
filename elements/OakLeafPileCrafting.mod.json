@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OakLeafPile"
+      },
+      {
+        "value": "CUSTOM:OakLeafPile"
+      },
+      {
+        "value": "CUSTOM:OakLeafPile"
+      },
+      {
+        "value": "CUSTOM:OakLeafPile"
+      },
+      {
+        "value": "CUSTOM:OakLeafPile"
+      },
+      {
+        "value": "CUSTOM:OakLeafPile"
+      },
+      {
+        "value": "CUSTOM:OakLeafPile"
+      },
+      {
+        "value": "CUSTOM:OakLeafPile"
+      },
+      {
+        "value": "CUSTOM:OakLeafPile"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.LEAVES#0"
+    },
+    "name": "oak_leaf_pile",
+    "namespace": "mod"
+  }
+}

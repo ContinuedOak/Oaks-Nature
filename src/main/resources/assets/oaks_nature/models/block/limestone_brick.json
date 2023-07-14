@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/brick_limestone",
+    "up": "oaks_nature:block/brick_limestone",
+    "north": "oaks_nature:block/brick_limestone",
+    "east": "oaks_nature:block/brick_limestone",
+    "south": "oaks_nature:block/brick_limestone",
+    "west": "oaks_nature:block/brick_limestone",
+    "particle": "oaks_nature:block/brick_limestone"
+  },
+  "render_type": "solid"
+}

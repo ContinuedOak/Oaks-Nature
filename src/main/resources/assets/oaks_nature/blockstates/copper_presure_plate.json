@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "oaks_nature:block/copper_presure_plate"
+    },
+    "powered=true": {
+      "model": "oaks_nature:block/copper_presure_plate_down"
+    }
+  }
+}

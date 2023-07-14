@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "oaks_nature:block/hollow_mangrove",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "oaks_nature:block/hollow_mangrove"
+    },
+    "axis=z": {
+      "model": "oaks_nature:block/hollow_mangrove",
+      "x": 90
+    }
+  }
+}

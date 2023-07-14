@@ -1,0 +1,12 @@
+{
+  "parent": "oaks_nature:custom/cake_slice1",
+  "textures": {
+    "all": "oaks_nature:block/blueberry_cake_top",
+    "particle": "oaks_nature:block/blueberry_cake_top",
+    "side": "oaks_nature:block/cake_side",
+    "top": "oaks_nature:block/blueberry_cake_top",
+    "bottom": "oaks_nature:block/cake_bottom",
+    "inside": "oaks_nature:block/cake_inner"
+  },
+  "render_type": "solid"
+}

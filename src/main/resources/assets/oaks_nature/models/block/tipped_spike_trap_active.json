@@ -1,0 +1,12 @@
+{
+  "parent": "oaks_nature:custom/spikes_activated",
+  "textures": {
+    "all": "oaks_nature:block/tipped_spikes",
+    "particle": "oaks_nature:block/tipped_spikes",
+    "side": "oaks_nature:block/spike_side",
+    "top": "oaks_nature:block/spike_top",
+    "bottom": "oaks_nature:block/spike_bottom",
+    "spike": "oaks_nature:block/tipped_spikes"
+  }, 
+  "render_type": "cutout"
+}

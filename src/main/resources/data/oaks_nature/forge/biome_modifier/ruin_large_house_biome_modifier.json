@@ -1,0 +1,22 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "snowy_plains",
+    "sparse_jungle",
+    "taiga",
+    "birch_forest",
+    "flower_forest",
+    "snowy_slopes",
+    "snowy_taiga",
+    "old_growth_birch_forest",
+    "grove",
+    "windswept_hills",
+    "plains",
+    "savanna",
+    "stony_peaks",
+    "jungle"
+  ],
+  "features": "oaks_nature:ruin_large_house",
+  "step": "surface_structures"
+}

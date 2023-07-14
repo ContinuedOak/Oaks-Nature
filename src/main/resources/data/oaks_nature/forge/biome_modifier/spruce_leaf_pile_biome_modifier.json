@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "windswept_hills",
+    "taiga",
+    "old_growth_pine_taiga",
+    "snowy_taiga",
+    "old_growth_spruce_taiga"
+  ],
+  "features": "oaks_nature:spruce_leaf_pile",
+  "step": "vegetal_decoration"
+}

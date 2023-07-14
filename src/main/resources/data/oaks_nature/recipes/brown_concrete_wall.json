@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_concrete"
+    },
+    "1": {
+      "item": "minecraft:brown_concrete"
+    },
+    "2": {
+      "item": "minecraft:brown_concrete"
+    },
+    "3": {
+      "item": "minecraft:brown_concrete"
+    },
+    "4": {
+      "item": "minecraft:brown_concrete"
+    },
+    "5": {
+      "item": "minecraft:brown_concrete"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:brown_concrete_wall",
+    "count": 4
+  }
+}

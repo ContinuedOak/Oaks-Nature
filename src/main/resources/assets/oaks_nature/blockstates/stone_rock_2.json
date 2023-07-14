@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_nature:block/stone_rock_2"
+    },
+    "facing=east": {
+      "model": "oaks_nature:block/stone_rock_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_nature:block/stone_rock_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_nature:block/stone_rock_2",
+      "y": 270
+    }
+  }
+}

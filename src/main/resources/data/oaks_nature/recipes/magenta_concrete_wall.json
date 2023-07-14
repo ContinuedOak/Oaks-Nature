@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magenta_concrete"
+    },
+    "1": {
+      "item": "minecraft:magenta_concrete"
+    },
+    "2": {
+      "item": "minecraft:magenta_concrete"
+    },
+    "3": {
+      "item": "minecraft:magenta_concrete"
+    },
+    "4": {
+      "item": "minecraft:magenta_concrete"
+    },
+    "5": {
+      "item": "minecraft:magenta_concrete"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:magenta_concrete_wall",
+    "count": 3
+  }
+}

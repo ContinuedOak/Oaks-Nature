@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/teal_concrete_powder",
+    "up": "oaks_nature:block/teal_concrete_powder",
+    "north": "oaks_nature:block/teal_concrete_powder",
+    "east": "oaks_nature:block/teal_concrete_powder",
+    "south": "oaks_nature:block/teal_concrete_powder",
+    "west": "oaks_nature:block/teal_concrete_powder",
+    "particle": "oaks_nature:block/teal_concrete_powder"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:rose_pink_concrete"
+    },
+    "1": {
+      "item": "oaks_nature:rose_pink_concrete"
+    },
+    "2": {
+      "item": "oaks_nature:rose_pink_concrete"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:rose_pink_concrete_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:oak_log"
+    },
+    "3": {
+      "tag": "forge:stained_glass"
+    },
+    "5": {
+      "tag": "forge:stained_glass"
+    },
+    "7": {
+      "tag": "forge:stained_glass"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:empty_glass_jar",
+    "count": 3
+  }
+}

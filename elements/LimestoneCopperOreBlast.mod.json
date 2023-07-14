@@ -1,0 +1,22 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "copper_ore",
+    "cookingBookCategory": "MISC",
+    "xpReward": 2.0,
+    "cookingTime": 85,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:LimestoneCopperOre"
+    },
+    "blastingReturnStack": {
+      "value": "Items.COPPER_INGOT"
+    },
+    "name": "limestone_copper_ore",
+    "namespace": "mod"
+  }
+}

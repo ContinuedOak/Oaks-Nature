@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_log"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:spruce_log"
+    },
+    "3": {
+      "item": "minecraft:spruce_log"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:spruce_log_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "credit": "Made by ContinuedOak",
+  "elements": [
+    {
+      "name": "Center post",
+      "from": [
+        6,
+        0,
+        6
+      ],
+      "to": [
+        10,
+        16,
+        10
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            9,
+            0,
+            12,
+            16
+          ],
+          "texture": "bamboo_stalk"
+        },
+        "east": {
+          "uv": [
+            6,
+            0,
+            9,
+            16
+          ],
+          "texture": "bamboo_stalk"
+        },
+        "south": {
+          "uv": [
+            3,
+            0,
+            6,
+            16
+          ],
+          "texture": "bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            13,
+            4,
+            16,
+            7
+          ],
+          "texture": "bamboo_stalk",
+          "cullface": "up"
+        },
+        "down": {
+          "uv": [
+            13,
+            0,
+            16,
+            3
+          ],
+          "texture": "bamboo_stalk",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
+}

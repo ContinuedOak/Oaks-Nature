@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "decorated_pot_side",
+        "top": "decorated_pot_base"
+      },
+      "name": "default"
+    }
+  }
+}

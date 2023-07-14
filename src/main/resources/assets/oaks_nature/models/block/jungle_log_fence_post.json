@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "oaks_nature:block/jungle_log",
+    "particle": "oaks_nature:block/jungle_log"
+  },
+  "render_type": "solid"
+}

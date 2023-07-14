@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "oaks_nature:block/stripped_dark_oak_log_top",
+    "top": "oaks_nature:block/stripped_dark_oak_log_top",
+    "side": "oaks_nature:block/stripped_dark_oak_log"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "oaks_nature:custom/small_dripleaf_flower_pot",
+  "textures": {
+    "all": "oaks_nature:block/small_dripleaf_top",
+    "particle": "oaks_nature:block/small_dripleaf_top",
+    "small_drip": "oaks_nature:block/small_dripleaf_side",
+    "flowerpot": "oaks_nature:block/flower_pot",
+    "dirt": "oaks_nature:block/dirt",
+    "small_top": "oaks_nature:block/small_dripleaf_top",
+    "small_dripleaf_stem": "oaks_nature:block/small_dripleaf_stem_top"
+  },
+  "render_type": "cutout"
+}

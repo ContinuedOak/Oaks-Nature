@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "oaks_nature:infested_end_stone",
+  "step": "underground_ores"
+}

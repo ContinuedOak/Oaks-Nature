@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 16,
+    "group": "rosepinkglasspain",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RosePinkGlass"
+      },
+      {
+        "value": "CUSTOM:RosePinkGlass"
+      },
+      {
+        "value": "CUSTOM:RosePinkGlass"
+      },
+      {
+        "value": "CUSTOM:RosePinkGlass"
+      },
+      {
+        "value": "CUSTOM:RosePinkGlass"
+      },
+      {
+        "value": "CUSTOM:RosePinkGlass"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RosePinkGlassPain"
+    },
+    "name": "rose_pink_glass_pain",
+    "namespace": "mod"
+  }
+}

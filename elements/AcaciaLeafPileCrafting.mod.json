@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "acacia_leaf_pile",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AcaciaLeafPile"
+      },
+      {
+        "value": "CUSTOM:AcaciaLeafPile"
+      },
+      {
+        "value": "CUSTOM:AcaciaLeafPile"
+      },
+      {
+        "value": "CUSTOM:AcaciaLeafPile"
+      },
+      {
+        "value": "CUSTOM:AcaciaLeafPile"
+      },
+      {
+        "value": "CUSTOM:AcaciaLeafPile"
+      },
+      {
+        "value": "CUSTOM:AcaciaLeafPile"
+      },
+      {
+        "value": "CUSTOM:AcaciaLeafPile"
+      },
+      {
+        "value": "CUSTOM:AcaciaLeafPile"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.LEAVES2#0"
+    },
+    "name": "acacia_leaf_pile",
+    "namespace": "mod"
+  }
+}

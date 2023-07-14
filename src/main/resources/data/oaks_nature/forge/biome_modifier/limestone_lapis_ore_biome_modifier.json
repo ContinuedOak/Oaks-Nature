@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "oaks_nature:limestone_cave",
+  "features": "oaks_nature:limestone_lapis_ore",
+  "step": "underground_ores"
+}

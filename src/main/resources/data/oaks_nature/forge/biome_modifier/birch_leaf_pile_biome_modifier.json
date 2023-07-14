@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "old_growth_birch_forest",
+    "birch_forest",
+    "flower_forest"
+  ],
+  "features": "oaks_nature:birch_leaf_pile",
+  "step": "vegetal_decoration"
+}

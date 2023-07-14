@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "stone_bricks"
+      },
+      "name": "default"
+    }
+  }
+}

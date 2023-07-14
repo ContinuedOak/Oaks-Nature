@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/rose_pink_wool",
+    "up": "oaks_nature:block/rose_pink_wool",
+    "north": "oaks_nature:block/rose_pink_wool",
+    "east": "oaks_nature:block/rose_pink_wool",
+    "south": "oaks_nature:block/rose_pink_wool",
+    "west": "oaks_nature:block/rose_pink_wool",
+    "particle": "oaks_nature:block/rose_pink_wool"
+  },
+  "render_type": "solid"
+}

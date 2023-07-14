@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "oaks_nature:block/black_concrete",
+    "particle": "oaks_nature:block/black_concrete"
+  },
+  "render_type": "solid"
+}

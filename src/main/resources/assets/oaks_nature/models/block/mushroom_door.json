@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:blocks/mushroom_planks",
+    "up": "oaks_nature:blocks/mushroom_planks",
+    "north": "oaks_nature:blocks/mushroom_planks",
+    "east": "oaks_nature:blocks/mushroom_planks",
+    "south": "oaks_nature:blocks/mushroom_planks",
+    "west": "oaks_nature:blocks/mushroom_planks",
+    "particle": "oaks_nature:blocks/mushroom_planks"
+  }
+}

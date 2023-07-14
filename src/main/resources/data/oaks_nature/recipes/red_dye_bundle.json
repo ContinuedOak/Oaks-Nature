@@ -1,0 +1,16 @@
+{
+  "group": "red_dye",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:bundle_of_poppy"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 3
+  }
+}

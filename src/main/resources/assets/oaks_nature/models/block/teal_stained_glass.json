@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/teal_glass",
+    "up": "oaks_nature:block/teal_glass",
+    "north": "oaks_nature:block/teal_glass",
+    "east": "oaks_nature:block/teal_glass",
+    "south": "oaks_nature:block/teal_glass",
+    "west": "oaks_nature:block/teal_glass",
+    "particle": "oaks_nature:block/teal_glass"
+  },
+  "render_type": "translucent"
+}

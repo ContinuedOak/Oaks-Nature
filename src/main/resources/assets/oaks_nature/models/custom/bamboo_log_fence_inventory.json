@@ -1,0 +1,654 @@
+{
+  "credit": "Made by ContinuedOak",
+  "parent": "custom/bamboo_log_fence_inventory",
+  "ambientocclusion": false,
+  "elements": [
+    {
+      "name": "Right post",
+      "from": [
+        6,
+        0,
+        12
+      ],
+      "to": [
+        10,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            0,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "east": {
+          "uv": [
+            9,
+            0,
+            12,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "south": {
+          "uv": [
+            3,
+            0,
+            6,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            13,
+            4,
+            16,
+            7
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "down": {
+          "uv": [
+            13,
+            0,
+            16,
+            3
+          ],
+          "texture": "#bamboo_stalk",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "Right post",
+      "from": [
+        6,
+        0,
+        6.3
+      ],
+      "to": [
+        10,
+        16,
+        10.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            0,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "east": {
+          "uv": [
+            9,
+            0,
+            12,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "south": {
+          "uv": [
+            3,
+            0,
+            6,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            13,
+            4,
+            16,
+            7
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "down": {
+          "uv": [
+            13,
+            0,
+            16,
+            3
+          ],
+          "texture": "#bamboo_stalk",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "Right post",
+      "from": [
+        6,
+        0,
+        0
+      ],
+      "to": [
+        10,
+        16,
+        4
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            0,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "east": {
+          "uv": [
+            9,
+            0,
+            12,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "south": {
+          "uv": [
+            3,
+            0,
+            6,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            13,
+            4,
+            16,
+            7
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "down": {
+          "uv": [
+            13,
+            0,
+            16,
+            3
+          ],
+          "texture": "#bamboo_stalk",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "Top bar",
+      "from": [
+        7,
+        12,
+        0
+      ],
+      "to": [
+        9,
+        15,
+        16
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            3,
+            0,
+            6,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            3,
+            0,
+            6,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            7,
+            0,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "down": {
+          "uv": [
+            7,
+            0,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        }
+      }
+    },
+    {
+      "name": "Top bar left",
+      "from": [
+        7,
+        12,
+        -2
+      ],
+      "to": [
+        9,
+        15,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            7,
+            1,
+            9,
+            4
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "east": {
+          "uv": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            14,
+            1,
+            16,
+            4
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            7,
+            14,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "down": {
+          "uv": [
+            7,
+            0,
+            9,
+            2
+          ],
+          "texture": "#bamboo_stalk"
+        }
+      }
+    },
+    {
+      "name": "Top bar right",
+      "from": [
+        7,
+        12,
+        16
+      ],
+      "to": [
+        9,
+        15,
+        18
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            14,
+            1,
+            16,
+            4
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "south": {
+          "uv": [
+            7,
+            1,
+            9,
+            4
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            7,
+            0,
+            9,
+            2
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "down": {
+          "uv": [
+            7,
+            14,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        }
+      }
+    },
+    {
+      "name": "Lower bar",
+      "from": [
+        7,
+        2.1,
+        0
+      ],
+      "to": [
+        9,
+        5.1,
+        16
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            3,
+            0,
+            6,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            3,
+            0,
+            6,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            7,
+            0,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "down": {
+          "uv": [
+            7,
+            0,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        }
+      }
+    },
+    {
+      "name": "Lower bar left",
+      "from": [
+        7,
+        2.1,
+        -2
+      ],
+      "to": [
+        9,
+        5.1,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            7,
+            7,
+            9,
+            10
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "east": {
+          "uv": [
+            0,
+            7,
+            2,
+            10
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            14,
+            7,
+            16,
+            10
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            7,
+            14,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "down": {
+          "uv": [
+            7,
+            0,
+            9,
+            2
+          ],
+          "texture": "#bamboo_stalk"
+        }
+      }
+    },
+    {
+      "name": "Lower bar right",
+      "from": [
+        7,
+        2.1,
+        16
+      ],
+      "to": [
+        9,
+        5.1,
+        18
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            14,
+            7,
+            16,
+            10
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "south": {
+          "uv": [
+            7,
+            7,
+            9,
+            10
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "west": {
+          "uv": [
+            0,
+            7,
+            2,
+            10
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "up": {
+          "uv": [
+            7,
+            0,
+            9,
+            2
+          ],
+          "texture": "#bamboo_stalk"
+        },
+        "down": {
+          "uv": [
+            7,
+            14,
+            9,
+            16
+          ],
+          "texture": "#bamboo_stalk"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        225,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "fixed": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  }
+}

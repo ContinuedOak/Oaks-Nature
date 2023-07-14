@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "iron",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:limestone_dust"
+    },
+    "1": {
+      "item": "oaks_nature:granite_dust"
+    },
+    "2": {
+      "item": "oaks_nature:granite_dust"
+    },
+    "3": {
+      "item": "oaks_nature:limestone_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 2
+  }
+}

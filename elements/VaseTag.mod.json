@@ -1,0 +1,72 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Vase"
+      },
+      {
+        "value": "CUSTOM:BlackVase"
+      },
+      {
+        "value": "CUSTOM:BlueVase"
+      },
+      {
+        "value": "CUSTOM:BrownVase"
+      },
+      {
+        "value": "CUSTOM:CyanVase"
+      },
+      {
+        "value": "CUSTOM:GrayVase"
+      },
+      {
+        "value": "CUSTOM:GreenVase"
+      },
+      {
+        "value": "CUSTOM:LightBlueVase"
+      },
+      {
+        "value": "CUSTOM:LightGrayVase"
+      },
+      {
+        "value": "CUSTOM:LimeVase"
+      },
+      {
+        "value": "CUSTOM:MagentaVase"
+      },
+      {
+        "value": "CUSTOM:OrangeVase"
+      },
+      {
+        "value": "CUSTOM:PinkVase"
+      },
+      {
+        "value": "CUSTOM:PurpleVase"
+      },
+      {
+        "value": "CUSTOM:RedVase"
+      },
+      {
+        "value": "CUSTOM:YellowVase"
+      },
+      {
+        "value": "CUSTOM:RosePinkVase"
+      },
+      {
+        "value": "CUSTOM:WhiteVase"
+      },
+      {
+        "value": "CUSTOM:TealVase"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "vase",
+    "namespace": "oaks_nature"
+  }
+}

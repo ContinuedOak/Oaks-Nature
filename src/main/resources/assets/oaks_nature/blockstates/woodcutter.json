@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_nature:block/woodcutter"
+    },
+    "facing=east": {
+      "model": "oaks_nature:block/woodcutter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_nature:block/woodcutter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_nature:block/woodcutter",
+      "y": 270
+    }
+  }
+}

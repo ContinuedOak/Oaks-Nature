@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "flowering_azalea_leaf_pile",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:flowering_azalea_leaf_pile"
+    },
+    "1": {
+      "item": "oaks_nature:flowering_azalea_leaf_pile"
+    },
+    "2": {
+      "item": "oaks_nature:flowering_azalea_leaf_pile"
+    },
+    "3": {
+      "item": "oaks_nature:flowering_azalea_leaf_pile"
+    },
+    "4": {
+      "item": "oaks_nature:flowering_azalea_leaf_pile"
+    },
+    "5": {
+      "item": "oaks_nature:flowering_azalea_leaf_pile"
+    },
+    "6": {
+      "item": "oaks_nature:flowering_azalea_leaf_pile"
+    },
+    "7": {
+      "item": "oaks_nature:flowering_azalea_leaf_pile"
+    },
+    "8": {
+      "item": "oaks_nature:flowering_azalea_leaf_pile"
+    }
+  },
+  "result": {
+    "item": "minecraft:flowering_azalea_leaves",
+    "count": 1
+  }
+}

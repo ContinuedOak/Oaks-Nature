@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "teal_concrete_stairs",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TealConcreteStairs"
+    },
+    "name": "teal_concrete_stairs",
+    "namespace": "mod"
+  }
+}

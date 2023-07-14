@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "painting",
+  "definition": {
+    "texture": "16x32_painitng_a.png",
+    "width": 16,
+    "height": 32,
+    "title": "Mona Lisa",
+    "author": "Leonardo da Vinci"
+  }
+}

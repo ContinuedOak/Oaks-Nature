@@ -1,0 +1,11 @@
+{
+  "disc_15": {
+    "subtitle": "subtitles.disc_15",
+    "sounds": [
+      {
+        "name": "oaks_nature:disc15",
+        "stream": true
+      }
+    ]
+  }
+}

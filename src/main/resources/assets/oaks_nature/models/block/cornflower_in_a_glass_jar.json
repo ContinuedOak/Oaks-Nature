@@ -1,0 +1,13 @@
+{
+  "parent": "oaks_nature:custom/plant_jar",
+  "textures": {
+    "all": "oaks_nature:block/cornflower",
+    "particle": "oaks_nature:block/acacia_leaves",
+    "glass": "oaks_nature:block/glass_top",
+    "cork": "oaks_nature:block/stripped_oak_log",
+    "glass_top": "oaks_nature:block/glass",
+    "dirt": "oaks_nature:block/podzol_top",
+    "flower": "oaks_nature:block/cornflower"
+  },
+  "render_type": "cutout"
+}

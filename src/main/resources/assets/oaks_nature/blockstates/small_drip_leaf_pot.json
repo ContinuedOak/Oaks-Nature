@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_nature:block/small_drip_leaf_pot"
+    },
+    "facing=east": {
+      "model": "oaks_nature:block/small_drip_leaf_pot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_nature:block/small_drip_leaf_pot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_nature:block/small_drip_leaf_pot",
+      "y": 270
+    }
+  }
+}

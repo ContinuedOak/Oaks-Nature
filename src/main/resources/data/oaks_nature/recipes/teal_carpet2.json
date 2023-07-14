@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "teal_carpet",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_carpet"
+    },
+    "1": {
+      "item": "minecraft:white_carpet"
+    },
+    "2": {
+      "item": "minecraft:white_carpet"
+    },
+    "3": {
+      "item": "minecraft:white_carpet"
+    },
+    "4": {
+      "item": "oaks_nature:teal_dye"
+    },
+    "5": {
+      "item": "minecraft:white_carpet"
+    },
+    "6": {
+      "item": "minecraft:white_carpet"
+    },
+    "7": {
+      "item": "minecraft:white_carpet"
+    },
+    "8": {
+      "item": "minecraft:white_carpet"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:teal_carpet",
+    "count": 8
+  }
+}

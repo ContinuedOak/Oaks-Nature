@@ -1,0 +1,11 @@
+{
+  "parent": "oaks_nature:custom/hollow_birch",
+  "textures": {
+    "all": "oaks_nature:block/birch_log",
+    "particle": "oaks_nature:block/birch_log",
+    "A": "oaks_nature:block/birch_log_top",
+    "B": "oaks_nature:block/birch_log",
+    "C": "oaks_nature:block/stripped_birch_log"
+  },
+  "render_type": "solid"
+}

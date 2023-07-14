@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "birch_forest",
+    "flower_forest"
+  ],
+  "features": "oaks_nature:flowering_azalea_leaf_pile",
+  "step": "vegetal_decoration"
+}

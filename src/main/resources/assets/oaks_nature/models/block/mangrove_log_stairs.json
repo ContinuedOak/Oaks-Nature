@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "oaks_nature:block/mangrove_log",
+    "top": "oaks_nature:block/mangrove_log",
+    "side": "oaks_nature:block/mangrove_log"
+  },
+  "render_type": "solid"
+}

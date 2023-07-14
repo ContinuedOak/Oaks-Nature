@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "teal_wool"
+      },
+      "name": "default"
+    }
+  }
+}

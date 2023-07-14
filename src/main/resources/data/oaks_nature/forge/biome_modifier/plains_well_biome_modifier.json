@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "sunflower_plains",
+    "grove",
+    "lukewarm_ocean",
+    "dark_forest",
+    "plains",
+    "birch_forest",
+    "flower_forest",
+    "mangrove_swamp",
+    "eroded_badlands"
+  ],
+  "features": "oaks_nature:plains_well",
+  "step": "surface_structures"
+}

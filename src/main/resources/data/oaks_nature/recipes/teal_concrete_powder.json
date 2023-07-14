@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "teal_concrete_powder",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:teal_dye"
+    },
+    "1": {
+      "item": "minecraft:sand"
+    },
+    "2": {
+      "item": "minecraft:sand"
+    },
+    "3": {
+      "item": "minecraft:sand"
+    },
+    "4": {
+      "item": "minecraft:sand"
+    },
+    "5": {
+      "item": "minecraft:gravel"
+    },
+    "6": {
+      "item": "minecraft:gravel"
+    },
+    "7": {
+      "item": "minecraft:gravel"
+    },
+    "8": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:teal_concrete_powder",
+    "count": 8
+  }
+}

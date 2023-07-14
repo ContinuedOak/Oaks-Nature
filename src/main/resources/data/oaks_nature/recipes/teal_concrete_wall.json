@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "teal_concrete_wall",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:teal_concrete"
+    },
+    "1": {
+      "item": "oaks_nature:teal_concrete"
+    },
+    "2": {
+      "item": "oaks_nature:teal_concrete"
+    },
+    "3": {
+      "item": "oaks_nature:teal_concrete"
+    },
+    "4": {
+      "item": "oaks_nature:teal_concrete"
+    },
+    "5": {
+      "item": "oaks_nature:teal_concrete"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:teal_concrete_wall",
+    "count": 6
+  }
+}

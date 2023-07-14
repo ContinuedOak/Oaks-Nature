@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "oaks_nature:block/stripped_spruce_log",
+    "top": "oaks_nature:block/stripped_spruce_log",
+    "side": "oaks_nature:block/stripped_spruce_log"
+  },
+  "render_type": "solid"
+}

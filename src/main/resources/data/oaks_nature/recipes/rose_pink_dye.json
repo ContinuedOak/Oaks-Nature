@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rosepinkdye",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:rose_pink_tulip"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:rose_pink_dye",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "oaks_nature:diamond_shears"
+    },
+    "title": {
+      "translate": "advancements.a_shearful_upgrade.title"
+    },
+    "description": {
+      "translate": "advancements.a_shearful_upgrade.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_shearful_upgrade": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "oaks_nature:a_shearful_upgrade"
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "birch_log_top",
+        "BrownMushroom": "brown_mushroom_block",
+        "log side": "birch_log"
+      },
+      "name": "default"
+    }
+  }
+}

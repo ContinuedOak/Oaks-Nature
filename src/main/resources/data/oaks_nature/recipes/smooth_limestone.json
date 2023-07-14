@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "smooth_limestone",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:limestone"
+    },
+    "1": {
+      "item": "oaks_nature:limestone"
+    },
+    "2": {
+      "item": "oaks_nature:limestone"
+    },
+    "3": {
+      "item": "oaks_nature:limestone"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:polished_limestone",
+    "count": 4
+  }
+}

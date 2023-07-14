@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/copper_switch",
+    "up": "oaks_nature:block/copper_switch",
+    "north": "oaks_nature:block/copper_switch",
+    "east": "oaks_nature:block/copper_switch",
+    "south": "oaks_nature:block/copper_switch",
+    "west": "oaks_nature:block/copper_switch",
+    "particle": "oaks_nature:block/copper_switch"
+  },
+  "render_type": "solid"
+}

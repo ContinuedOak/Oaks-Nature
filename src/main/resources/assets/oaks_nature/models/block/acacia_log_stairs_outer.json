@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "oaks_nature:block/acacia_log",
+    "top": "oaks_nature:block/acacia_log",
+    "side": "oaks_nature:block/acacia_log"
+  },
+  "render_type": "solid"
+}

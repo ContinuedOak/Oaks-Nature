@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "small_drip": "small_dripleaf_side",
+        "flowerpot": "flower_pot",
+        "dirt": "dirt",
+        "small_top": "small_dripleaf_top",
+        "small_dripleaf_stem": "small_dripleaf_stem_top"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "oaks_nature:block/black_vase"
+    },
+    "facing=east": {
+      "model": "oaks_nature:block/black_vase",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "oaks_nature:block/black_vase",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "oaks_nature:block/black_vase",
+      "y": 270
+    }
+  }
+}

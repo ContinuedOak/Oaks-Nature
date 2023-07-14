@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/fence_gate",
+  "textures": {
+    "all": "oaks_nature:blocks/bamboo_stalk",
+    "particle": "oaks_nature:blocks/bamboo_stalk",
+    "texture": "oaks_nature:blocks/bamboo_stalk"
+  },
+  "render_type": "solid"
+}

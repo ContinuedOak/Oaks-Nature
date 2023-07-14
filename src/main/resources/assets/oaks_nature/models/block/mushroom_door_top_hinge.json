@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "oaks_nature:blocks/mushroom_door_bottom",
+    "top": "oaks_nature:blocks/mushroom_door_top"
+  }
+}

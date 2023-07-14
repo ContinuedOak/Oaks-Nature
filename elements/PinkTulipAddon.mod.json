@@ -1,0 +1,15 @@
+{
+  "_fv": 43,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "Blocks.RED_FLOWER#7"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 204.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.29000000000000004
+  }
+}

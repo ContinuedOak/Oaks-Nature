@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "teal_concrete_wall",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      },
+      {
+        "value": "CUSTOM:TealConcrete"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TealConcreteWall"
+    },
+    "name": "teal_concrete_wall",
+    "namespace": "mod"
+  }
+}

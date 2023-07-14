@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "oaks_nature:block/white_concrete",
+    "top": "oaks_nature:block/white_concrete",
+    "side": "oaks_nature:block/white_concrete"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "oaks_nature:hollow_oak_log"
+    },
+    "title": {
+      "translate": "advancements.lumbering.title"
+    },
+    "description": {
+      "translate": "advancements.lumbering.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "lumbering": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "oaks_nature:getting_wood"
+}

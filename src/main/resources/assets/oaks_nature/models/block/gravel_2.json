@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/sand_2_-_copy_-_copy",
+  "textures": {
+    "all": "oaks_nature:block/gravel",
+    "particle": "oaks_nature:block/gravel",
+    "missing": "oaks_nature:block/gravel"
+  },
+  "render_type": "solid"
+}

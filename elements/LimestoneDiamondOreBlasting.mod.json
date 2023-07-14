@@ -1,0 +1,22 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "diamond_ore",
+    "cookingBookCategory": "MISC",
+    "xpReward": 2.0,
+    "cookingTime": 85,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:LimestoneDiamondOre"
+    },
+    "blastingReturnStack": {
+      "value": "Items.DIAMOND"
+    },
+    "name": "limestone_diamond_ore",
+    "namespace": "mod"
+  }
+}

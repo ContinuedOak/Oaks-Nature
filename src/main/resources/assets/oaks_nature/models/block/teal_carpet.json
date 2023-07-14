@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/carpet",
+  "textures": {
+    "all": "oaks_nature:block/teal_wool",
+    "particle": "oaks_nature:block/teal_wool",
+    "texture": "oaks_nature:block/teal_wool"
+  },
+  "render_type": "solid"
+}

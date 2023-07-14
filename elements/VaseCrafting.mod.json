@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CLAY"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CLAY"
+      },
+      {
+        "value": "Blocks.CHEST"
+      },
+      {
+        "value": "Blocks.CLAY"
+      },
+      {
+        "value": "Blocks.CLAY"
+      },
+      {
+        "value": "Blocks.CLAY"
+      },
+      {
+        "value": "Blocks.CLAY"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:VaseClay"
+    },
+    "name": "vase_crafting",
+    "namespace": "mod"
+  }
+}

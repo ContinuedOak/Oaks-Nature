@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_ore",
+    "oaks_nature:limestone_iron_ore",
+    "minecraft:deepslate_iron_ore"
+  ]
+}

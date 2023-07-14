@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "oaks_nature:block/spruce_log",
+    "top": "oaks_nature:block/spruce_log",
+    "side": "oaks_nature:block/spruce_log"
+  },
+  "render_type": "solid"
+}

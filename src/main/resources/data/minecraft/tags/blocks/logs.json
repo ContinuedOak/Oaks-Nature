@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "oaks_nature:hollow_spruce_log",
+    "oaks_nature:stripped_hollow_dark_log",
+    "oaks_nature:stripped_hollow_jungle_log",
+    "oaks_nature:hollow_mangrove",
+    "oaks_nature:hollow_jungle_log",
+    "oaks_nature:stripped_hollow_birch_log",
+    "oaks_nature:stripped_hollow_acacia_log",
+    "oaks_nature:stripped_hollow_oak_log",
+    "oaks_nature:stripped_hollow_spruce_log",
+    "oaks_nature:hollow_dark_oak_log",
+    "oaks_nature:stripped_hollow_mangrove_log",
+    "oaks_nature:hollow_acacia_log"
+  ]
+}

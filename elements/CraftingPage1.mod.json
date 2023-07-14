@@ -1,0 +1,308 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 291,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "page.png",
+          "use1Xscale": false,
+          "x": 70,
+          "y": 29
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "page.png",
+          "use1Xscale": false,
+          "x": 209,
+          "y": 29
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_wood_bowl_crushing_crafting_reci",
+          "text": {
+            "fixedValue": "Wood Bowl Crushing:"
+          },
+          "color": {
+            "value": -11513776,
+            "falpha": 0.0
+          },
+          "x": 84,
+          "y": 43
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "coal2.png",
+          "use1Xscale": true,
+          "x": 83,
+          "y": 114
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "limestone_dusticon.png",
+          "use1Xscale": true,
+          "x": 99,
+          "y": 114
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "watericon.png",
+          "use1Xscale": true,
+          "x": 90,
+          "y": 130
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow_full.png",
+          "use1Xscale": true,
+          "x": 116,
+          "y": 127
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gunicon.png",
+          "use1Xscale": true,
+          "x": 130,
+          "y": 123
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_iron",
+          "text": {
+            "fixedValue": "Iron:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "granite_powdericon.png",
+          "use1Xscale": true,
+          "x": 223,
+          "y": 56
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "limestone_dusticon.png",
+          "use1Xscale": true,
+          "x": 239,
+          "y": 56
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "watericon.png",
+          "use1Xscale": true,
+          "x": 232,
+          "y": 72
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow_full.png",
+          "use1Xscale": true,
+          "x": 255,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "iromicon.png",
+          "use1Xscale": true,
+          "x": 268,
+          "y": 61
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "leavesicon.png",
+          "use1Xscale": true,
+          "x": 223,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "leavesicon.png",
+          "use1Xscale": true,
+          "x": 239,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "watericon.png",
+          "use1Xscale": true,
+          "x": 231,
+          "y": 132
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrow_full.png",
+          "use1Xscale": true,
+          "x": 255,
+          "y": 129
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "slimeicon.png",
+          "use1Xscale": true,
+          "x": 267,
+          "y": 126
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_every_crafting_will_require_wate",
+          "text": {
+            "fixedValue": "Every crafting will"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 84,
+          "y": 67
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_require_water",
+          "text": {
+            "fixedValue": " require water!"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 78,
+          "y": 79
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_gunpowder",
+          "text": {
+            "fixedValue": "Gunpowder:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 84,
+          "y": 103
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_this_can_be_in_any_order",
+          "text": {
+            "fixedValue": "(This is orderless)"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 234,
+          "y": 91
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_slimeballs",
+          "text": {
+            "fixedValue": "Slimeballs:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 103
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_can_be_any_leaves",
+          "text": {
+            "fixedValue": "(can be any leaves)"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 152
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_arrorw_left",
+          "image": "arrorw_left.png",
+          "hoveredImage": "arrorw_left_hover.png",
+          "onClick": {
+            "name": "OpenNaturalGuideHomepage"
+          },
+          "x": 85,
+          "y": 189
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

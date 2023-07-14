@@ -1,0 +1,196 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "page.png",
+          "use1Xscale": false,
+          "x": 55,
+          "y": 29
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "page.png",
+          "use1Xscale": false,
+          "x": 190,
+          "y": 29
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_crafting",
+          "text": "Crafting",
+          "onClick": {
+            "name": "OpenCraftingPage1"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 69,
+          "y": 104
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_biomes",
+          "text": "Biomes",
+          "onClick": {
+            "name": "OpenBiomePage1"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 69,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_oaks_nature",
+          "text": {
+            "fixedValue": "Oak's Nature"
+          },
+          "color": {
+            "value": -11513776,
+            "falpha": 0.0
+          },
+          "x": 93,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_varversion",
+          "text": {
+            "fixedValue": "v0.4.0"
+          },
+          "color": {
+            "value": -16711936,
+            "falpha": 0.0
+          },
+          "x": 204,
+          "y": 177
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_my_other_mods",
+          "text": {
+            "fixedValue": "My Other Mods"
+          },
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "x": 230,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_oaks_decor",
+          "text": {
+            "fixedValue": "Oaks Decor"
+          },
+          "color": {
+            "value": -11513776,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_oaks_enchantments",
+          "text": {
+            "fixedValue": "Oaks Enchantments"
+          },
+          "color": {
+            "value": -11513776,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_oaks_emote_indev",
+          "text": {
+            "fixedValue": "Oaks Advancements"
+          },
+          "color": {
+            "value": -11513776,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 91
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_arrorw_left",
+          "image": "arrorw_left.png",
+          "hoveredImage": "arrorw_left_hover.png",
+          "x": 71,
+          "y": 187
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_content",
+          "text": {
+            "fixedValue": "Content:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 69,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_arrorw_right",
+          "image": "arrorw_right.png",
+          "hoveredImage": "arrorw_right_hover.png",
+          "onClick": {
+            "name": "OpenBiomePage1"
+          },
+          "x": 303,
+          "y": 187
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

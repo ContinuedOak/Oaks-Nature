@@ -1,0 +1,51 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:HollowDarkOakLog"
+      },
+      {
+        "value": "CUSTOM:HollowSpruceLog"
+      },
+      {
+        "value": "CUSTOM:HollowAcaciaLog"
+      },
+      {
+        "value": "CUSTOM:HollowJungleLog"
+      },
+      {
+        "value": "CUSTOM:StrippedHollowBirchLog"
+      },
+      {
+        "value": "CUSTOM:StrippedHollowOakLog"
+      },
+      {
+        "value": "CUSTOM:StrippedHollowDarkLog"
+      },
+      {
+        "value": "CUSTOM:StrippedHollowSpruceLog"
+      },
+      {
+        "value": "CUSTOM:StrippedHollowAcaciaLog"
+      },
+      {
+        "value": "CUSTOM:StrippedHollowJungleLog"
+      },
+      {
+        "value": "CUSTOM:HollowMangrove"
+      },
+      {
+        "value": "CUSTOM:StrippedHollowMangroveLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

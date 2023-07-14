@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:oak_fence",
+    "oaks_nature:oaks_log_fence",
+    "oaks_nature:spruce_log_fence",
+    "minecraft:acacia_fence",
+    "minecraft:birch_fence",
+    "oaks_nature:mangrove_log_fence",
+    "minecraft:dark_oak_fence",
+    "minecraft:crimson_fence",
+    "minecraft:spruce_fence",
+    "minecraft:warped_fence",
+    "oaks_nature:birch_log_fence",
+    "oaks_nature:acacia_log_fence",
+    "minecraft:mangrove_fence",
+    "minecraft:jungle_fence",
+    "oaks_nature:jungle_log_fence",
+    "oaks_nature:dark_oak_log_fence"
+  ]
+}

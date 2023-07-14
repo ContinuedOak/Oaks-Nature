@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "A": "birch_log_top",
+        "B": "birch_log",
+        "C": "stripped_birch_log"
+      },
+      "name": "default"
+    }
+  }
+}

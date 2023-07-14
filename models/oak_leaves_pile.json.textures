@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "6": "oak_leaves"
+      },
+      "name": "default"
+    }
+  }
+}

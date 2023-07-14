@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "oaks_nature:block/lime_concrete",
+    "particle": "oaks_nature:block/lime_concrete"
+  },
+  "render_type": "solid"
+}

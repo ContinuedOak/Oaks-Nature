@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/teal_terracotta",
+    "up": "oaks_nature:block/teal_terracotta",
+    "north": "oaks_nature:block/teal_terracotta",
+    "east": "oaks_nature:block/teal_terracotta",
+    "south": "oaks_nature:block/teal_terracotta",
+    "west": "oaks_nature:block/teal_terracotta",
+    "particle": "oaks_nature:block/teal_terracotta"
+  },
+  "render_type": "solid"
+}

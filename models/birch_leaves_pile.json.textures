@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "6": "birch_leaves"
+      },
+      "name": "default"
+    }
+  }
+}

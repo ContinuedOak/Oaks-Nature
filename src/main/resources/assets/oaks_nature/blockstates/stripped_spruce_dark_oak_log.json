@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "oaks_nature:block/stripped_spruce_dark_oak_log"
+    },
+    "type=top": {
+      "model": "oaks_nature:block/stripped_spruce_dark_oak_log_top"
+    },
+    "type=double": {
+      "model": "oaks_nature:block/stripped_spruce_dark_oak_log_full"
+    }
+  }
+}

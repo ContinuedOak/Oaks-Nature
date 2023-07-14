@@ -1,0 +1,11 @@
+{
+  "parent": "oaks_nature:custom/woodcutter",
+  "textures": {
+    "all": "oaks_nature:block/woodcutter_top",
+    "particle": "oaks_nature:block/woodcutter_top",
+    "side": "oaks_nature:block/woodcutter",
+    "top": "oaks_nature:block/woodcutter_top",
+    "saw": "oaks_nature:block/glass_cutter"
+  },
+  "render_type": "cutout"
+}

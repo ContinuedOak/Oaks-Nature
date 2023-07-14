@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "oaks_nature:block/purple_concrete",
+    "top": "oaks_nature:block/purple_concrete",
+    "side": "oaks_nature:block/purple_concrete"
+  },
+  "render_type": "solid"
+}

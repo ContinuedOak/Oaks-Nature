@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/birch_leaves_pile",
+  "textures": {
+    "all": "oaks_nature:block/birch_leaves",
+    "particle": "oaks_nature:block/birch_leaves",
+    "6": "oaks_nature:block/birch_leaves"
+  },
+  "render_type": "cutout"
+}

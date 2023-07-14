@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "oaks_nature:dig_site_d",
+  "step": "surface_structures"
+}

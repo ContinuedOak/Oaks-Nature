@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/mossy_stone",
+    "up": "oaks_nature:block/mossy_stone",
+    "north": "oaks_nature:block/mossy_stone",
+    "east": "oaks_nature:block/mossy_stone",
+    "south": "oaks_nature:block/mossy_stone",
+    "west": "oaks_nature:block/mossy_stone",
+    "particle": "oaks_nature:block/mossy_stone"
+  },
+  "render_type": "solid"
+}

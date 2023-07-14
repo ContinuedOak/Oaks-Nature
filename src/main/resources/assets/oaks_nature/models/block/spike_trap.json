@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/spike_bottom",
+    "up": "oaks_nature:block/spike_top",
+    "north": "oaks_nature:block/spike_side",
+    "east": "oaks_nature:block/spike_side",
+    "south": "oaks_nature:block/spike_side",
+    "west": "oaks_nature:block/spike_side",
+    "particle": "oaks_nature:block/spike_bottom"
+  },
+  "render_type": "solid"
+}

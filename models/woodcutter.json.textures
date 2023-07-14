@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "woodcutter",
+        "top": "woodcutter_top",
+        "saw": "glass_cutter"
+      },
+      "name": "default"
+    }
+  }
+}

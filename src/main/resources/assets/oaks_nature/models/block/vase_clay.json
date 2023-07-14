@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/vase_clay",
+  "textures": {
+    "all": "oaks_nature:block/clay",
+    "particle": "oaks_nature:block/clay",
+    "Clay": "oaks_nature:block/clay"
+  },
+  "render_type": "solid"
+}

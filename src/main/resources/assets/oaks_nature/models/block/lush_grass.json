@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oaks_nature:block/dirt",
+    "up": "oaks_nature:block/lush_grass_top",
+    "north": "oaks_nature:block/lushy_grass_side",
+    "east": "oaks_nature:block/lushy_grass_side",
+    "south": "oaks_nature:block/lushy_grass_side",
+    "west": "oaks_nature:block/lushy_grass_side",
+    "particle": "oaks_nature:block/dirt"
+  },
+  "render_type": "solid"
+}

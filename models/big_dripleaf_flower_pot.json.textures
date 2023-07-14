@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "leaf_top": "big_dripleaf_top",
+        "flowerpot": "flower_pot",
+        "dirt": "dirt",
+        "big_driple": "big_dripleaf_tip",
+        "big_stem": "big_dripleaf_stem"
+      },
+      "name": "default"
+    }
+  }
+}

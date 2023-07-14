@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "oaks_nature:white_dandelion"
+    }
+  },
+  "result": {
+    "item": "minecraft:white_dye",
+    "count": 1
+  }
+}

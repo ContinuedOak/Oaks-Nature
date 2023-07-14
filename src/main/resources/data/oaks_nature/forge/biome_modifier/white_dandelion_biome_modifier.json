@@ -1,0 +1,19 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "mushroom_fields",
+    "old_growth_birch_forest",
+    "forest",
+    "grove",
+    "dark_forest",
+    "sparse_jungle",
+    "old_growth_pine_taiga",
+    "birch_forest",
+    "flower_forest",
+    "jungle",
+    "meadow",
+    "old_growth_spruce_taiga"
+  ],
+  "features": "oaks_nature:white_dandelion",
+  "step": "vegetal_decoration"
+}

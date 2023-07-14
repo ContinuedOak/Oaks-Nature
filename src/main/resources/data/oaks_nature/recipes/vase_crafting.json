@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:clay"
+    },
+    "3": {
+      "item": "minecraft:clay"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "minecraft:clay"
+    },
+    "6": {
+      "item": "minecraft:clay"
+    },
+    "7": {
+      "item": "minecraft:clay"
+    },
+    "8": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "item": "oaks_nature:vase_clay",
+    "count": 1
+  }
+}

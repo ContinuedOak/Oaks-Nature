@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wood_shears",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "oaks_nature:wooden_shear_parts"
+    },
+    {
+      "item": "oaks_nature:wooden_shear_parts"
+    }
+  ],
+  "result": {
+    "item": "oaks_nature:wooden_shears",
+    "count": 1
+  }
+}

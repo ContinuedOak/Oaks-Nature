@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "oaks_nature:mossy_stone",
+    "oaks_nature:limestone",
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "oaks_nature:wooden_shears"
+    },
+    "title": {
+      "translate": "advancements.will_it_shear.title"
+    },
+    "description": {
+      "translate": "advancements.will_it_shear.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "will_it_shear": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "oaks_nature:getting_wood"
+}

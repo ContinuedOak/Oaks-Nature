@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "spruce_leaf_pile",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SpruceLeafPile"
+      },
+      {
+        "value": "CUSTOM:SpruceLeafPile"
+      },
+      {
+        "value": "CUSTOM:SpruceLeafPile"
+      },
+      {
+        "value": "CUSTOM:SpruceLeafPile"
+      },
+      {
+        "value": "CUSTOM:SpruceLeafPile"
+      },
+      {
+        "value": "CUSTOM:SpruceLeafPile"
+      },
+      {
+        "value": "CUSTOM:SpruceLeafPile"
+      },
+      {
+        "value": "CUSTOM:SpruceLeafPile"
+      },
+      {
+        "value": "CUSTOM:SpruceLeafPile"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.LEAVES#1"
+    },
+    "name": "spruce_leaf_pile",
+    "namespace": "mod"
+  }
+}

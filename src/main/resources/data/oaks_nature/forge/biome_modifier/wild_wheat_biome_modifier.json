@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "oaks_nature:pumpkin_forest",
+  "features": "oaks_nature:wild_wheat",
+  "step": "vegetal_decoration"
+}

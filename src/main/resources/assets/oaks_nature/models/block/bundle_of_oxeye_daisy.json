@@ -1,0 +1,9 @@
+{
+  "parent": "oaks_nature:custom/bundles_of_oxeye_daisy_large",
+  "textures": {
+    "all": "oaks_nature:block/oxeye_daisy",
+    "particle": "oaks_nature:block/oxeye_daisy",
+    "0": "oaks_nature:block/oxeye_daisy"
+  },
+  "render_type": "cutout"
+}

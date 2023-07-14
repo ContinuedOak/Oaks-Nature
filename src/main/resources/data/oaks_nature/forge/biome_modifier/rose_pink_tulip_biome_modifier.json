@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "oaks_nature:rose_pink_tulip",
+  "step": "vegetal_decoration"
+}

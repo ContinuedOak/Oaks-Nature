@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "rosepink_carpet",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CARPET#0"
+      },
+      {
+        "value": "Blocks.CARPET#0"
+      },
+      {
+        "value": "Blocks.CARPET#0"
+      },
+      {
+        "value": "Blocks.CARPET#0"
+      },
+      {
+        "value": "CUSTOM:RosePinkDye"
+      },
+      {
+        "value": "Blocks.CARPET#0"
+      },
+      {
+        "value": "Blocks.CARPET#0"
+      },
+      {
+        "value": "Blocks.CARPET#0"
+      },
+      {
+        "value": "Blocks.CARPET#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RosePinkCarpet"
+    },
+    "name": "rosepinkcarpetb",
+    "namespace": "mod"
+  }
+}

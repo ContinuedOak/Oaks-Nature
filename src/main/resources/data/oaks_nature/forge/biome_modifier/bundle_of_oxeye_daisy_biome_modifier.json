@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "sunflower_plains",
+    "plains",
+    "flower_forest"
+  ],
+  "features": "oaks_nature:bundle_of_oxeye_daisy",
+  "step": "vegetal_decoration"
+}

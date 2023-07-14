@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "spike_side",
+        "top": "spike_top",
+        "bottom": "spike_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

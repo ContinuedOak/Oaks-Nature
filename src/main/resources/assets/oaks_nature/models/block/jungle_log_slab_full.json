@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "oaks_nature:block/jungle_log_top",
+    "top": "oaks_nature:block/jungle_log_top",
+    "side": "oaks_nature:block/jungle_log"
+  },
+  "render_type": "solid"
+}
